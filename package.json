@@ -23,7 +23,7 @@
   "author": "fx.thoorens@ark.io",
   "license": "MIT",
   "dependencies": {
-    "skelpyjs": "0.2.6",
+    "skelpyjs": "0.2.7",
     "ascii-table": "0.0.9",
     "asciichart": "^0.1.7",
     "async": "^2.1.5",

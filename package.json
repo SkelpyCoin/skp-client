@@ -1,0 +1,46 @@
+{
+  "name": "skp-client",
+  "version": "1.0.0",
+  "description": "Command Line Interface to skp blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SkelpyCoin/skp-client.git"
+  },
+  "keywords": [
+    "skp",
+    "blockchain",
+    "spv",
+    "lite",
+    "cli"
+  ],
+  "bin": {
+    "skp-client": "index.js"
+  },
+  "author": "fx.thoorens@ark.io",
+  "license": "MIT",
+  "dependencies": {
+    "skelpyjs": "0.2.6",
+    "ascii-table": "0.0.9",
+    "asciichart": "^0.1.7",
+    "async": "^2.1.5",
+    "bip39": "^2.2.0",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.7.5",
+    "chart": "github:jstrace/chart",
+    "cli-colors": "0.0.2",
+    "cli-spinners": "^1.0.0",
+    "clui": "^0.3.1",
+    "colors": "^1.1.2",
+    "cowsay": "^1.1.9",
+    "figlet": "^1.2.0",
+    "le-table": "^6.1.4",
+    "npm": "^5.3.0",
+    "ora": "^1.1.0",
+    "request": "^2.79.0",
+    "vorpal": "^1.11.4"
+  }
+}

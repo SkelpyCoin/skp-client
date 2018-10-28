@@ -1,4 +1,4 @@
-# skp-client
+# Skelpy Client
 CLI client for skp blockchain.
 You can connect to devnet, mainnet or your custom private/public skp-derived blockchain
 

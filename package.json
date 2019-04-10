@@ -1,6 +1,6 @@
 {
   "name": "skp-client",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "Command Line Interface to skp blockchain",
   "main": "index.js",
   "scripts": {

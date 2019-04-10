@@ -38,7 +38,7 @@ var networks = {
     ]
   },
   mainnet: {
-    nethash: "ea28576ec4ddda11e09b8e1b3cfbe41485da89fcd6d776e409b688004cdbe036",
+    nethash: "f24b53b1617ba362b419a64861afcec1b066d2798e77571b5cdb91303530d412",
     peers: [
       "51.75.27.22:4001",
       "51.75.27.22:4001",
